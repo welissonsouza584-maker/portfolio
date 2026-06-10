@@ -1,0 +1,97 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #111;
+    color: white;
+}
+
+.hero {
+    text-align: center;
+    padding: 100px 20px;
+    background: linear-gradient(
+        rgba(0,0,0,0.8),
+        rgba(0,0,0,0.8)
+    );
+}
+
+.hero h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    max-width: 600px;
+    margin: auto;
+    color: #ddd;
+    line-height: 1.6;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 25px;
+    padding: 15px 30px;
+    background: #d4af37;
+    color: black;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.projetos {
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.projetos h2 {
+    color: #d4af37;
+    margin-bottom: 40px;
+}
+
+.card {
+    background: #1c1c1c;
+    padding: 25px;
+    border-radius: 15px;
+    border: 1px solid #d4af37;
+    margin-bottom: 25px;
+}
+
+.card h3 {
+    color: #d4af37;
+}
+
+.card p {
+    color: #ddd;
+}
+
+.card a {
+    color: #d4af37;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.contato {
+    text-align: center;
+    padding: 60px 20px;
+    background: #181818;
+}
+
+.contato h2 {
+    color: #d4af37;
+}
+.sobre {
+    text-align: center;
+    padding: 60px 20px;
+    background: #181818;
+}
+
+.sobre h2 {
+    color: #d4af37;
+    margin-bottom: 25px;
+}
+
+.sobre p {
+    max-width: 700px;
+    margin: auto;
+    color: #ddd;
+    line-height: 1.8;
+}
